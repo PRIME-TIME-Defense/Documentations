@@ -4,3 +4,5 @@ Welcome to Prime Time Documentation repo, Where you will find our Reports, Topol
 
 ## Team Documents
 - [Team Agreement](<PT TEAM AGREEMENT.pdf>)
+- [Time Line](TimeLine.html) - Dowload this file by clicking on the download
+  
