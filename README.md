@@ -1,12 +1,6 @@
 ## Prime-Time-Defense Documentation
 ### 1. [Team Agreement](PT%20TEAM%20AGREEMENT.pdf)
 ### 2. [TimeLine.pdf](https://github.com/PRIME-TIME-Defense/Documentations/files/14607213/TimeLine.pdf)
-        
-  
-  
-<br>
-<br>
-<br>
 
 <img width="1573" alt="Screenshot 2024-03-14 at 2 44 19 PM" src="https://github.com/PRIME-TIME-Defense/Documentations/assets/143548087/aff367c1-8690-491c-ba4a-6bfb9dabdef9">
 
