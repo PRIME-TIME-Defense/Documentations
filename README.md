@@ -1,7 +1,9 @@
 ## Prime-Time-Defense Documentation
 ### 1. [Team Agreement](PT%20TEAM%20AGREEMENT.pdf)
 ### 2. [TimeLine.pdf](https://github.com/PRIME-TIME-Defense/Documentations/files/14607213/TimeLine.pdf)
-
+        
+  
+  
 <br>
 <br>
 <br>
@@ -16,3 +18,7 @@
 
 
 <img width="1531" alt="Screenshot 2024-03-14 at 2 24 11 PM" src="https://github.com/PRIME-TIME-Defense/Documentations/assets/143548087/79d2073e-7e03-4dfc-8951-7c730d6bbb66">
+
+[Time Line HTML FILE](TimeLine.html) 
+
+<img width="1555" alt="Screenshot 2024-03-14 at 2 22 42 PM" src="https://github.com/PRIME-TIME-Defense/Documentations/assets/143548087/24b89eab-971e-4df9-8447-2ac047a6bc6d">
