@@ -11,3 +11,7 @@ Welcome to our Documentation repo. This is where you will find our reports, Topo
 - [Time line](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
 - [Objective](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIMETIME-TOPO.pdf)
 - [Attack Vectors](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Attack_Vectors.pdf)
+
+## Other Repos
+- [Main Repo](https://github.com/PRIME-TIME-Defense/401FinalProject)
+- [Scrips](https://github.com/PRIME-TIME-Defense/Scripts)
