@@ -3,7 +3,8 @@ Welcome to our Documentation repo. This is where you will find our reports, Topo
 
 ## Team Agreement
 - [Prime-Time Team Agreement](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PT%20TEAM%20AGREEMENT.pdf)
-
+- [Prime-Time SOPs](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIME%20TIME%20Defenders%20SOP.pdf)
+  
 ## Team Reporting
 - [Prime-Time Team Report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
 - [Splunk Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
