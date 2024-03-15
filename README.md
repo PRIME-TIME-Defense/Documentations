@@ -4,6 +4,9 @@ Welcome to our Documentation repo. This is where you will find our reports, Topo
 ## Team Agreement
 - [Prime-Time Team Agreement](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PT%20TEAM%20AGREEMENT.pdf)
 
+## Team Reporting
+- [Prime-Time Team Report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
+  
 ## Topologies
 - [Time line](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
 - [Objective](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/PRIMETIME-TOPO.pdf)
