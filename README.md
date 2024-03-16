@@ -8,6 +8,7 @@ Welcome to our Documentation repo. This is where you will find our reports, Topo
 ## Team Reporting
 - [Prime-Time Team Report](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/FINAL%20REPORT.pdf)
 - [Splunk Query/Alerts](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Splunk%20Dashboard%20Query%20%26%20Alert.pdf)
+- [Stride Analysis](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/Stride%20Analysis.pdf)
   
 ## Topologies
 - [Time line](https://github.com/PRIME-TIME-Defense/Documentations/blob/main/TimeLine.pdf)
